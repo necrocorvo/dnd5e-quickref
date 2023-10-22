@@ -32,5 +32,14 @@ data_bonusaction = [
         bullets: [
 
         ]
+    },
+    {
+        title: "Use potion",
+        icon: "icon-potion-ball",
+        subtitle: "Use a single consumable on yourself",
+        description: "You can drink a potion, elixir, or use an oil on yourself.",
+        bullets: [
+
+        ]
     }
 ]
